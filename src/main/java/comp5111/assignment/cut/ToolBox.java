@@ -485,7 +485,8 @@ public class ToolBox {
          * @return the index where the search char was found, -1 if not found
          */
         static int lastIndexOf(final CharSequence cs, final int searchChar, int start) {
-            if (cs instanceof String) {
+//        	System.out.println("hiih111");
+        	if (cs instanceof String) {
                 return ((String) cs).lastIndexOf(searchChar, start);
             }
             final int sz = cs.length();
@@ -531,7 +532,8 @@ public class ToolBox {
          * @return the index where the search sequence was found
          */
         static int lastIndexOf(final CharSequence cs, final CharSequence searchChar, int start) {
-            if (searchChar == null || cs == null) {
+//        	System.out.println("hiih222");
+        	if (searchChar == null || cs == null) {
                 return NOT_FOUND;
             }
             if (searchChar instanceof String) {
