@@ -14,7 +14,8 @@
 
 `src/main/java/comp5111/assignment/cut/EntryPointStatementCoverage.java`
 
-![image](https://user-images.githubusercontent.com/30380242/110245687-463f1900-7f9f-11eb-8282-f92bfa627b35.png)
+![image](https://user-images.githubusercontent.com/30380242/110245763-89998780-7f9f-11eb-98cd-60588bfed2c7.png)
+
 
 
 
