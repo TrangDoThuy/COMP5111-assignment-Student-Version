@@ -14,6 +14,7 @@
 
 `src/main/java/comp5111/assignment/cut/EntryPointStatementCoverage.java`
 
+![image](https://user-images.githubusercontent.com/30380242/110245687-463f1900-7f9f-11eb-8282-f92bfa627b35.png)
 
 
 
@@ -22,3 +23,6 @@
 - To run the Branch coverage, please find: 
 
 `src/main/java/comp5111/assignment/cut/EntryPointBranchCoverage.java`
+
+![image](https://user-images.githubusercontent.com/30380242/110245706-5656f880-7f9f-11eb-9898-972cacc881d8.png)
+
